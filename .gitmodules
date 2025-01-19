@@ -1,0 +1,6 @@
+[submodule "Dependencies/VDFParser"]
+	path = Dependencies/VDFParser
+	url = https://github.com/BrianLima/VDFParser
+[submodule "Dependencies/CUE4Parse"]
+	path = Dependencies/CUE4Parse
+	url = https://github.com/FabianFG/CUE4Parse.git
